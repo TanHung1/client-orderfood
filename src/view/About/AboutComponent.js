@@ -22,6 +22,7 @@ function AboutComponent()  {
                                     are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in
                                     the middle of text. All
                                 </p>
+//egegeigegni
                                 <a href="/about"> Read More</a>
                             </div>
                         </div>
